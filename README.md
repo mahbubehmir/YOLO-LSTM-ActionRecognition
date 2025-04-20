@@ -107,10 +107,14 @@ python predict_action.py --model models/lstm_model.h5 --scaler models/lstm_scale
 
 ---
 
-## 🧠 توسعه‌دهنده
+## 🧠 توسعه‌دهنده محبوبه
 
-- 👤 نام شما
-- 📧 ایمیل: your.email@example.com
-- 🌐 لینکدین: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+-### 📫 راه‌های ارتباطی با من
+
+- 📧 ایمیل: [niayeshmirshekar92@gmail.com](mailto:niayeshmirshekar92@gmail.com)
+- 💼 لینکدین: [Mahboubeh Mirshekar](https://www.linkedin.com/in/mahbubeh-mirshekar-999640170)
+- اینستاگرام: airobo.project
+  کانال تلگرام:airobo_project
 
 ---
+
